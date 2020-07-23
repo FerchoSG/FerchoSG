@@ -8,4 +8,4 @@
   }
 
 ![logo](https://media1.giphy.com/media/LPZMkVxnXERA5h8BVJ/giphy.webp?cid=ecf05e47w58iv1hjb4go6pe53ykymotd7tbzmmqsfpyt35g8&rid=giphy.webp "logo")
-![alt text](https://media1.giphy.com/media/LPZMkVxnXERA5h8BVJ/giphy.webp?cid=ecf05e47w58iv1hjb4go6pe53ykymotd7tbzmmqsfpyt35g8&rid=giphy.webp "Logo Title Text 1")
+![alt text](https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif)
