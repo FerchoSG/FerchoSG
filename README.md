@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Fernando   
 
 
-#### [Software Developer]
-### [Javascript lover]
+#### Software Developer
+### Javascript lover
 
 
