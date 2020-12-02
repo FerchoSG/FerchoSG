@@ -1,6 +1,6 @@
 ## Hi 👋
 
-![my image](https://res.cloudinary.com/dabpmlf5c/image/upload/v1606946735/Fer_dev_Banner_xmkjgb.png "Personal Banner")
+![my image](https://res.cloudinary.com/dabpmlf5c/image/upload/v1606929654/banner_iimks0.png "Personal Banner")
 
 #### I am a software developer passionate about technology and learning new things every day
 🔎 You can find me at 
